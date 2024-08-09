@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\bin\Debug\net8.0\FixacaoConstrutores.exe
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\bin\Debug\net8.0\FixacaoConstrutores.deps.json
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\bin\Debug\net8.0\FixacaoConstrutores.runtimeconfig.json
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\bin\Debug\net8.0\FixacaoConstrutores.dll
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\bin\Debug\net8.0\FixacaoConstrutores.pdb
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.dll
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\refint\FixacaoConstrutores.dll
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.pdb
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\FixacaoConstrutores.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\FixacaoConstrutores\FixacaoConstrutores\obj\Debug\net8.0\ref\FixacaoConstrutores.dll
